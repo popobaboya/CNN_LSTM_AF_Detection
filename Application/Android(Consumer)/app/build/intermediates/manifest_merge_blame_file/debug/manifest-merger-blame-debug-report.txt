@@ -1,0 +1,102 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.samsung.android.sdk.accessory.example.helloaccessory.consumer"
+4    android:versionCode="4"
+5    android:versionName="2.0.2" >
+6
+7    <uses-sdk
+7-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:14:5-16:41
+8        android:minSdkVersion="26"
+8-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:15:9-35
+9        android:targetSdkVersion="21" />
+9-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:16:9-38
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:7:5-68
+11-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:7:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:8:5-74
+12-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:8:22-71
+13    <uses-permission android:name="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK" />
+13-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:9:5-92
+13-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:9:22-89
+14    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY" />
+14-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:10:5-117
+14-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:10:22-114
+15    <uses-permission android:name="com.samsung.wmanager.ENABLE_NOTIFICATION" />
+15-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:11:5-80
+15-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:11:22-77
+16    <uses-permission android:name="com.samsung.WATCH_APP_TYPE.Companion" />
+16-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:12:5-75
+16-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:12:22-73
+17
+18    <application
+18-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:18:5-51:19
+19        android:allowBackup="true"
+19-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:19:9-35
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:20:9-43
+23        android:label="@string/app_name" >
+23-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:21:9-41
+24        <activity
+24-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:22:9-30:20
+25            android:name="com.samsung.android.sdk.accessory.example.helloaccessory.consumer.ConsumerActivity"
+25-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:23:13-110
+26            android:label="@string/app_name"
+26-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:24:13-45
+27            android:screenOrientation="portrait" >
+27-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:25:13-49
+28            <intent-filter>
+28-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:26:13-29:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:27:17-69
+29-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:27:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:28:17-77
+31-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:28:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <service android:name="com.samsung.android.sdk.accessory.example.helloaccessory.consumer.ConsumerService" />
+35-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:32:9-117
+35-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:32:18-114
+36
+37        <receiver android:name="com.samsung.android.sdk.accessory.RegisterUponInstallReceiver" >
+37-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:34:9-38:20
+37-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:34:19-95
+38            <intent-filter>
+38-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:35:13-37:29
+39                <action android:name="com.samsung.accessory.action.REGISTER_AGENT" />
+39-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:36:17-86
+39-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:36:25-83
+40            </intent-filter>
+41        </receiver>
+42        <receiver android:name="com.samsung.android.sdk.accessory.ServiceConnectionIndicationBroadcastReceiver" >
+42-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:39:9-43:20
+42-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:39:19-112
+43            <intent-filter>
+43-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:40:13-42:29
+44                <action android:name="com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED" />
+44-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:41:17-100
+44-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:41:25-97
+45            </intent-filter>
+46        </receiver>
+47
+48        <meta-data
+48-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:45:9-47:62
+49            android:name="AccessoryServicesLocation"
+49-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:46:13-53
+50            android:value="/res/xml/accessoryservices.xml" />
+50-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:47:13-59
+51        <meta-data
+51-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:48:9-50:35
+52            android:name="GearAppType"
+52-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:49:13-39
+53            android:value="wgt" />
+53-->C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:50:13-32
+54    </application>
+55
+56</manifest>

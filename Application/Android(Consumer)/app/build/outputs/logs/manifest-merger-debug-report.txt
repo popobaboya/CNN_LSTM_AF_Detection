@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\5fa9cc1e99c716107528dc5f14d66d16\appcompat-v7-23.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\55fbf105fad43b942a191f09d9b36e20\tensorflow-lite-support-0.1.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\a199b5958bed6e13b7391c8ae530187f\support-v4-23.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\f97a7c34d2ca0438bb9ac191d10a66eb\tensorflow-lite-2.4.0\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:3:5-80
+		INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:8:22-71
+uses-permission#com.samsung.accessory.permission.ACCESSORY_FRAMEWORK
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:9:5-92
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:9:22-89
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:10:5-117
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:10:22-114
+uses-permission#com.samsung.wmanager.ENABLE_NOTIFICATION
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#com.samsung.WATCH_APP_TYPE.Companion
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:12:22-73
+uses-sdk
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:14:5-16:41
+INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:14:5-16:41
+INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:14:5-16:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\5fa9cc1e99c716107528dc5f14d66d16\appcompat-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\5fa9cc1e99c716107528dc5f14d66d16\appcompat-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\55fbf105fad43b942a191f09d9b36e20\tensorflow-lite-support-0.1.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\55fbf105fad43b942a191f09d9b36e20\tensorflow-lite-support-0.1.0\AndroidManifest.xml:4:3-71
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\a199b5958bed6e13b7391c8ae530187f\support-v4-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\a199b5958bed6e13b7391c8ae530187f\support-v4-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\f97a7c34d2ca0438bb9ac191d10a66eb\tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\f97a7c34d2ca0438bb9ac191d10a66eb\tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:14:5-16:41
+INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:14:5-16:41
+	android:targetSdkVersion
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:16:9-38
+		INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:15:9-35
+		INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:15:9-35
+		INJECTED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:18:5-51:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\5fa9cc1e99c716107528dc5f14d66d16\appcompat-v7-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\5fa9cc1e99c716107528dc5f14d66d16\appcompat-v7-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\a199b5958bed6e13b7391c8ae530187f\support-v4-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\a199b5958bed6e13b7391c8ae530187f\support-v4-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\f97a7c34d2ca0438bb9ac191d10a66eb\tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\PCS\.gradle\caches\transforms-2\files-2.1\f97a7c34d2ca0438bb9ac191d10a66eb\tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+	android:label
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:19:9-35
+activity#com.samsung.android.sdk.accessory.example.helloaccessory.consumer.ConsumerActivity
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:23:13-110
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:28:27-74
+service#com.samsung.android.sdk.accessory.example.helloaccessory.consumer.ConsumerService
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:32:9-117
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:32:18-114
+receiver#com.samsung.android.sdk.accessory.RegisterUponInstallReceiver
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:34:9-38:20
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:34:19-95
+intent-filter#action:name:com.samsung.accessory.action.REGISTER_AGENT
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:35:13-37:29
+action#com.samsung.accessory.action.REGISTER_AGENT
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:36:17-86
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:36:25-83
+receiver#com.samsung.android.sdk.accessory.ServiceConnectionIndicationBroadcastReceiver
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:39:19-112
+intent-filter#action:name:com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:40:13-42:29
+action#com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:41:17-100
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:41:25-97
+meta-data#AccessoryServicesLocation
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:45:9-47:62
+	android:value
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:47:13-59
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:46:13-53
+meta-data#GearAppType
+ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:48:9-50:35
+	android:value
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:50:13-32
+	android:name
+		ADDED from C:\Users\PCS\Desktop\HGU\tizen code\HelloAccessory_Web\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:49:13-39
