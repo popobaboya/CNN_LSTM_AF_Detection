@@ -17,7 +17,8 @@
 현재는 갤럭시 워치3 에서 RR interval 과 HR 데이터를 자바 안드로이드 앱에 전송하는 것까지 구현한 상태이며, CNN-LSTM 모델로 테스트하여 결과를 표출하는 과정은 구현되지 않은 상태이다. 
 
 ## Documentation
-* 자세한 내용은 Documentation.pdf 파일을 참고
+* 자세한 내용은 CNN_LSTM_AF_Detection_Documentation.pdf 파일을 참고
+https://github.com/popobaboya/CNN_LSTM_AF_Detection/commit/5ca978c8ca40f2a90f3de7260b161be2e68ce65e
 
 ## Collaborator
 한동대학교 전산전자공학부
