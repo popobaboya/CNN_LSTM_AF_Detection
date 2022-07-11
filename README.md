@@ -18,7 +18,7 @@
 
 ## Documentation
 * 자세한 내용은 CNN_LSTM_AF_Detection_Documentation.pdf 파일을 참고
-https://github.com/popobaboya/CNN_LSTM_AF_Detection/commit/5ca978c8ca40f2a90f3de7260b161be2e68ce65e
+https://github.com/popobaboya/CNN_LSTM_AF_Detection/blob/main/CNN_LSTM_AF_Deteciton_Documentation.pdf
 
 ## Collaborator
 한동대학교 전산전자공학부
